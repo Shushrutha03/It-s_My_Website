@@ -22,10 +22,6 @@ I am **Ale Shushrutha**, a Computer Science student with a strong passion for te
 
 ## How to View
 This website is live on GitHub Pages. You can view it here:
-[My Website](https://shushrutha03.github.io/my-website/)
+[My Website](https://shushrutha03.github.io/Its_My_Website/)
 
-## How to Run Locally
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Shushrutha03/my-website.git
 
